@@ -1,6 +1,6 @@
 {
-	"author": "vinay palivela",
 	"name": "fcc-learn-npm-package-json",
+	"author": "vinay palivela",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
